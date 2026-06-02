@@ -1,8 +1,8 @@
 # Ionicons Flutter
 
 ![](https://img.shields.io/pub/v/ionicons_plus)
-![](https://img.shields.io/github/license/ez-connect/flutter-ionicons)
-![](https://img.shields.io/github/issues/ez-connect/flutter-ionicons)
+![](https://img.shields.io/github/license/ultrafastwork/ionicons_plus)
+![](https://img.shields.io/github/issues/ultrafastwork/ionicons_plus)
 
 This package includes 1357 icons of [Ionicons](https://ionicons.com/) [v8.0.13](https://github.com/ionic-team/ionicons/releases/tag/v8.0.13). The naming convention is the same as the CSS names, all dashes replaced with underscores.
 
@@ -30,7 +30,7 @@ If you're switching from the original [`ionicons`](https://pub.dev/packages/ioni
 
 ```yaml
 dependencies:
-  ionicons_plus: ^0.2.4  # was: ionicons: ^0.2.3
+  ionicons_plus: ^0.2.4  # was: ionicons: ^0.2.2
 ```
 
 ### 2. Update imports

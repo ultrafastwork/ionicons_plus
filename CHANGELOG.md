@@ -1,3 +1,11 @@
+## 0.2.5
+
+### Fixed
+
+- Fixed GitHub badges in README.md to point to the correct repository (`ultrafastwork/ionicons_plus`)
+  - License badge
+  - Issues badge
+
 ## 0.2.4
 
 ### Fixed
