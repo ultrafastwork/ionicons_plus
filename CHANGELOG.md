@@ -1,3 +1,10 @@
+## 0.2.4
+
+### Fixed
+
+- Shortened `pubspec.yaml` description to comply with pub.dev guidelines (60-180 characters)
+- Achieves 160/160 pub points on pub.dev
+
 ## 0.2.3
 
 ### Forked
@@ -30,7 +37,7 @@ To migrate from the original [`ionicons`](https://pub.dev/packages/ionicons) pac
 1. **Update `pubspec.yaml`:**
    ```yaml
    dependencies:
-     ionicons_plus: ^0.2.3  # was: ionicons: ^0.2.2
+     ionicons_plus: ^0.2.4  # was: ionicons: ^0.2.3
    ```
 
 2. **Update imports:**

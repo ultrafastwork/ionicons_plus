@@ -2,7 +2,7 @@ import 'package:flutter_test/flutter_test.dart';
 
 import 'package:ionicons_plus/ionicons_plus.dart';
 
-// Tests for ionicons_plus v0.2.3 (Ionicons v8.0.13)
+// Tests for ionicons_plus v0.2.4 (Ionicons v8.0.13)
 
 void main() {
   test('Ionicons icons are defined', () {

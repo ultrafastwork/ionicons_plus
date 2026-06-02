@@ -1,6 +1,6 @@
 name: ionicons_plus
-description: Ionicons Flutter is an open-source icon set with 1,357 icons (Ionicons v8.0.13) crafted for web, iOS, Android, and desktop apps. Fork of ionicons package with updated Flutter SDK support.
-version: 0.2.3
+description: Ionicons icon pack for Flutter with 1,357 icons (v8.0.13). Updated fork of ionicons with modern SDK support.
+version: 0.2.4
 homepage: https://github.com/ultrafastwork/ionicons_plus
 repository: https://github.com/ultrafastwork/ionicons_plus
 

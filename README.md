@@ -30,7 +30,7 @@ If you're switching from the original [`ionicons`](https://pub.dev/packages/ioni
 
 ```yaml
 dependencies:
-  ionicons_plus: ^0.2.3  # was: ionicons: ^0.2.2
+  ionicons_plus: ^0.2.4  # was: ionicons: ^0.2.3
 ```
 
 ### 2. Update imports
