@@ -1,0 +1,19 @@
+# Example app platform directories (not needed for package consumers)
+example/android/
+example/ios/
+example/macos/
+example/windows/
+example/linux/
+example/web/
+
+# Dev/build tooling
+bin/
+
+# Build artifacts
+build/
+
+# IDE files
+*.iml
+
+# Internal dev docs
+ai-docs/

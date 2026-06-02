@@ -1,0 +1,9 @@
+include: package:flutter_lints/flutter.yaml
+
+# Icon names use snake_case to match CSS naming convention from original Ionicons
+linter:
+  rules:
+    constant_identifier_names: false
+
+# Additional information about this file can be found at
+# https://dart.dev/guides/language/analysis-options
